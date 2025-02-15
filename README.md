@@ -7,7 +7,7 @@
 
 Сначала клонируем репозиторий:
 `
-git clone https://gitverse.ru/SvZ_FTeam/TestPrefixSumm.git
+git clone https://github.com/arducat/TestPrefSumm.git
 `
 
 Если вы хотите скомпилировать и сразу запустить:
